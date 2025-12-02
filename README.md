@@ -23,3 +23,29 @@ AL-Practice/
 Daily Practice → Exercises and code done each day
 Projects → Small side projects or mini extensions
 Notes → Concepts, references, and handwritten explanations
+
+Goal of This Repository
+✔ Build strong fundamentals in AL programming
+✔ Practice real Business Central development tasks
+✔ Prepare for developer roles (BC developer)
+✔ Track my progress and build a portfolio
+✔ Share knowledge with others learning AL
+
+What This Repo Contains
+* Sample AL code snippets
+* Practice tables, pages, and codeunits
+* Custom extensions
+* Small real-life scenarios
+* Step-by-step solutions
+
+Technologies & Tools
+-AL Language Extension for VS Code
+-Git & GitHub
+-Visual Studio Code
+
+Daily Commitment
+I practice AL every day and push my work here to keep my learning consistent and transparent.
+
+Feedback & Suggestions
+If you are familiar with AL or Business Central development, feel free to open an issue or suggest improvements.
+Collaboration is welcome!
