@@ -52,7 +52,7 @@ Collaboration is welcome!
 
 About Me
 
-✔ I'm a passionate developer focusing on:
+I'm a passionate developer focusing on:
 ✔ Business Central development
 ✔ Web development (React, WordPress)
 ✔ Continuous learning & improvement
