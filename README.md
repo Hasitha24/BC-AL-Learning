@@ -49,3 +49,10 @@ I practice AL every day and push my work here to keep my learning consistent and
 Feedback & Suggestions
 If you are familiar with AL or Business Central development, feel free to open an issue or suggest improvements.
 Collaboration is welcome!
+
+About Me
+
+✔ I'm a passionate developer focusing on:
+✔ Business Central development
+✔ Web development (React, WordPress)
+✔ Continuous learning & improvement
